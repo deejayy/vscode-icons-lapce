@@ -1,0 +1,6 @@
+name = "lapce-vscode-icon-theme"
+version = "0.5.6"
+display-name = "VScode Icon Theme"
+author = "deejayyhu"
+description = "VScode icon theme for Lapce"
+icon-themes = ["vscode-icons.toml"]
